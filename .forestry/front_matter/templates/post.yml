@@ -20,3 +20,5 @@ fields:
   config:
     maxSize: 64
   label: image
+pages:
+- src/posts/if-i-were-a-furry-i-would-be-a-squirrel-because-squirrels-hide-from-poison.md
