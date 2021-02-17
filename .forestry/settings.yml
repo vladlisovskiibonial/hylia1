@@ -16,9 +16,9 @@ sections:
 - type: directory
   path: ''
   label: Pages
-  create: documents
-  match: 'src/pages/.md '
-  new_doc_ext: ".md"
+  create: none
+  match: 'src/pages/*.md '
+  new_doc_ext: md
 - type: heading
   label: Globals
 - type: document
