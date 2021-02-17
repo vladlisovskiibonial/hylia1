@@ -14,11 +14,11 @@ sections:
   templates:
   - post
 - type: directory
-  path: ''
+  path: src/pages
   label: Pages
-  create: none
-  match: 'src/pages/*.md '
-  new_doc_ext: md
+  create: documents
+  match: "**/*"
+  new_doc_ext: ''
 - type: heading
   label: Globals
 - type: document
