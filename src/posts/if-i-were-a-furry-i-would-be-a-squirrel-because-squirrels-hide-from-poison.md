@@ -1,7 +1,9 @@
 ---
 date: 2021-02-16
 title: if i were a furry i would be a squirrel because squirrels hide from poison
-tags: []
+tags:
+- simple-post
+- blog
 image: "/images/tumblr_n8f721uo1m1tga27vo1_1280.jpg"
 
 ---
