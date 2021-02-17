@@ -11,6 +11,6 @@ image: ''
 
 **I’m sorry.**
 
-> ERGREGUIH
+> The Markdown editor is so cool here at forestry.
 
 ![](/images/tumblr_n8f721uo1m1tga27vo1_1280.jpg)
