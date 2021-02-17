@@ -17,8 +17,8 @@ sections:
   path: src/pages
   label: Pages
   create: documents
-  match: "**/*"
-  new_doc_ext: ".md"
+  match: "*.md"
+  new_doc_ext: md
 - type: heading
   label: Globals
 - type: document
