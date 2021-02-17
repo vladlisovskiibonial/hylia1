@@ -21,4 +21,5 @@ fields:
     maxSize: 64
   label: image
 pages:
+- src/pages/some-random-page-for-demo.md
 - src/posts/if-i-were-a-furry-i-would-be-a-squirrel-because-squirrels-hide-from-poison.md
